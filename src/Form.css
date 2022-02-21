@@ -1,0 +1,46 @@
+form {
+  margin-bottom: 2rem;
+}
+
+.form-input {
+  display: block;
+  width: 100%;
+  padding: 0.9rem 0.5rem;
+  margin-bottom: 0.925rem;
+  border-radius: 5px;
+  border: 1px solid rgb(191, 191, 191);
+  background-color: rgb(223, 223, 223);
+}
+
+.form-input[placeholder] {
+  font-size: 1.15rem;
+  color: rgb(162, 162, 162);
+}
+
+.form-input:focus {
+  outline: none;
+  background-color: rgb(255, 255, 255);
+}
+
+.msg-prompt {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  padding: 2rem 0;
+}
+
+label {
+  margin-right: 0.5rem;
+}
+
+.form-submit {
+  width: 100%;
+  font-size: 0.825rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 1.25rem;
+  background-color: rgb(84, 84, 253);
+  color: #fff;
+}
